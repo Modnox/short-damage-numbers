@@ -2,5 +2,6 @@
     "disableAutoUpdate": false,
     "name": "Short damage numbers",
     "author": "Modnox",
-    "description": "ALlows you to shorten damage numbers in-game."
+    "description": "Allows you to shorten damage numbers in-game.",
+    "servers": ["https://raw.githubusercontent.com/Modnox/short-damage-numbers/master/"]
 }
